@@ -5,3 +5,5 @@ These are the basic python programs
 - age.py
 - functionsbasic.py
 - evenoroddusingfunctions.py
+- squarefunc.py
+- 
