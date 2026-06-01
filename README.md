@@ -9,3 +9,4 @@ These are the basic python programs
 - filehandling.py
 - constructor.py
 - exceptionhandling.py
+- methods.py
