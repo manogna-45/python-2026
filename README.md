@@ -15,3 +15,4 @@ These are the basic python programs
 - constructorusingcar.py
 - withopenfile.py
 - object.py
+- inheritance.py
