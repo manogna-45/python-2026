@@ -16,3 +16,4 @@ These are the basic python programs
 - withopenfile.py
 - object.py
 - inheritance.py
+- filediary.py
