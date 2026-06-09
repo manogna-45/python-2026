@@ -17,3 +17,4 @@ These are the basic python programs
 - object.py
 - inheritance.py
 - filediary.py
+- readfile.py
