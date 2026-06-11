@@ -18,3 +18,4 @@ These are the basic python programs
 - inheritance.py
 - filediary.py
 - readfile.py
+- sumofoddnum.py
