@@ -19,3 +19,4 @@ These are the basic python programs
 - filediary.py
 - readfile.py
 - sumofoddnum.py
+- palindrome.py
