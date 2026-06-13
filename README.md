@@ -20,3 +20,4 @@ These are the basic python programs
 - readfile.py
 - sumofoddnum.py
 - palindrome.py
+- hillpattern.py
