@@ -23,3 +23,4 @@ These are the basic python programs
 - hillpattern.py
 - fibonacci.py
 - largestof3.py
+- countdigits.py
