@@ -25,3 +25,4 @@ These are the basic python programs
 - largestof3.py
 - countdigits.py
 - reversenumber.py
+- armstrong.py
