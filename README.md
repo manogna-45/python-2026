@@ -26,3 +26,4 @@ These are the basic python programs
 - countdigits.py
 - reversenumber.py
 - armstrong.py
+- diamondpattern.py
