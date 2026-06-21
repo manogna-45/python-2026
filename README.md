@@ -27,3 +27,4 @@ These are the basic python programs
 - reversenumber.py
 - armstrong.py
 - diamondpattern.py
+- shoppingcartmethod.py
