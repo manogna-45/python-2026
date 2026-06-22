@@ -28,3 +28,4 @@ These are the basic python programs
 - armstrong.py
 - diamondpattern.py
 - shoppingcartmethod.py
+- movieticketmethod.py
