@@ -29,3 +29,4 @@ These are the basic python programs
 - diamondpattern.py
 - shoppingcartmethod.py
 - movieticketmethod.py
+- multitable.py
