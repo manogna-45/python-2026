@@ -30,3 +30,4 @@ These are the basic python programs
 - shoppingcartmethod.py
 - movieticketmethod.py
 - multitable.py
+- salarymethod.py
