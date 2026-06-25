@@ -31,3 +31,4 @@ These are the basic python programs
 - movieticketmethod.py
 - multitable.py
 - salarymethod.py
+- multipleinheritance.py
