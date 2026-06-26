@@ -32,3 +32,4 @@ These are the basic python programs
 - multitable.py
 - salarymethod.py
 - multipleinheritance.py
+- hierarchicalinheritance.py
