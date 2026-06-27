@@ -33,3 +33,4 @@ These are the basic python programs
 - salarymethod.py
 - multipleinheritance.py
 - hierarchicalinheritance.py
+- hybridinheritance.py
