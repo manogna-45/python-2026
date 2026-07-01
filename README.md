@@ -37,3 +37,4 @@ These are the basic python programs
 - polymorphism.py
 - twosum.py
 - lambdalargestof3.py
+- lambdaavg.py
