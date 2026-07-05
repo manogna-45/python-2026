@@ -40,3 +40,4 @@ These are the basic python programs
 - lambdaavg.py
 - lambdapositive.py
 - atmtransactions.py
+- lambdasquare.py
