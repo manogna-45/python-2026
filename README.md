@@ -1,4 +1,4 @@
-These are the basic python programs
+These are the basic python programs that i did
 
 - login.py
 - fizzbuzz.py
@@ -42,3 +42,4 @@ These are the basic python programs
 - atmtransactions.py
 - lambdasquare.py
 - neonnum.py
+- strongnum.py
